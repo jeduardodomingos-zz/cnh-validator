@@ -2,7 +2,7 @@ package br.com.student.service;
 
 public class CnhValidatorService {
 
-    public boolean checkLength(String cnh){
+    private boolean checkLength(String cnh){
         if(cnh != null){
             if(cnh.length() == 11){
                 return true;
@@ -12,7 +12,7 @@ public class CnhValidatorService {
         return false;
     }
 
-    public boolean checkNumeric(String cnh){
+    private boolean checkNumeric( String cnh){
         long parsedCnh;
 
         try{
@@ -23,7 +23,7 @@ public class CnhValidatorService {
         }
     }
 
-    public boolean checkDigit(String cnhNumber) {
+    private boolean checkDigit(String cnhNumber) {
         Long sum = 0L;
         Long firstModuleResult = 0L;
         Long secondModuleResult = 0L;

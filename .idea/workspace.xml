@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6a1e71c-2339-43a6-b56f-4a9452f4c5b4" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="d6a1e71c-2339-43a6-b56f-4a9452f4c5b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cnh-validator-poc/br/com/student/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cnh-validator-poc/br/com/student/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cnh-validator-poc/br/com/student/service/CnhValidatorService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cnh-validator-poc/br/com/student/service/CnhValidatorService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/student/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/student/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/student/service/CnhValidatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/student/service/CnhValidatorService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -15,29 +26,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1UUvfhP9GxNnkgXw5owuDkEcee2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../experian-sandbox-base-transformation" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -56,6 +70,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,6 +99,46 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="2167" y="431" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1575450914424">
+      <screen x="0" y="27" width="3286" height="700" />
+    </state>
+    <state x="2167" y="431" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.27.3286.700@0.27.3286.700" timestamp="1575450914424" />
+    <state x="2104" y="106" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575551955668">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="525" y="96" key="FileChooserDialogImpl/0.27.1366.700/1366.0.1920.1080@0.27.1366.700" timestamp="1575544546564" />
+    <state x="2104" y="106" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.700/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575551955668" />
+    <state x="525" y="96" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.700@0.27.1366.700" timestamp="1575510146012" />
+    <state x="2104" y="135" width="424" height="484" key="FileChooserDialogImpl/0.27.3286.700@0.27.3286.700" timestamp="1575450946073" />
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1575553025916">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/0.27.1366.700/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575553025916" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1575553025916">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.center/0.27.1366.700/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575553025916" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1575553025916">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.left/0.27.1366.700/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575553025916" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1575553025916">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.right/0.27.1366.700/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575553025916" />
+    <state x="1809" y="0" width="1024" height="845" key="SettingsEditor" timestamp="1575551970566">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="315" y="27" width="1012" height="700" key="SettingsEditor/0.27.1366.700/1366.0.1920.1080@0.27.1366.700" timestamp="1575544586108" />
+    <state x="1809" y="0" width="1024" height="845" key="SettingsEditor/0.27.1366.700/1366.0.1920.1080@1366.0.1920.1080" timestamp="1575551970566" />
+    <state x="315" y="27" width="1024" height="700" key="SettingsEditor/0.27.1366.700@0.27.1366.700" timestamp="1575510147222" />
+    <state x="1809" y="27" width="1024" height="700" key="SettingsEditor/0.27.3286.700@0.27.3286.700" timestamp="1575450951698" />
+    <state x="339" y="203" key="com.intellij.ide.util.TipDialog" timestamp="1575544352240">
+      <screen x="0" y="27" width="1366" height="700" />
+    </state>
+    <state x="339" y="203" key="com.intellij.ide.util.TipDialog/0.27.1366.700/1366.0.1920.1080@0.27.1366.700" timestamp="1575544352240" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -80,11 +146,6 @@
           <url>file://$PROJECT_DIR$/src/br/com/student/service/CnhValidatorService.java</url>
           <line>78</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/com/student/Main.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/br/com/student/service/CnhValidatorService.java</url>
